@@ -4,6 +4,20 @@ has_children: false
 nav_order: 1
 ---
 
+# Unity im Labor
+{: .no_toc }
+
+Hier finden Sie allgemeine Informationen zum VR Labor.
+{: .fs-6 .fw-300 }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 # Editing Unity Versionen im VR Labor
 
 Wir verwenden die folgenden Versionen im VR-Labor:
