@@ -1,7 +1,7 @@
 ---
 title: Unity im Labor
 has_children: false
-nav_order: 2
+nav_order: 1
 ---
 
 # Editing Unity Versionen im VR Labor
