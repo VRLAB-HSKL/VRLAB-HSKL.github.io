@@ -6,6 +6,18 @@ nav_order: 2
 
 
 # Sprachsteuerung
+{: .no_toc }
+
+Hier finden Sie allgemeine Informationen zum VR Labor.
+{: .fs-6 .fw-300 }
+
+## Inhaltsverzeichnis
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Wichtig
 Die in folgenden Punkten beschriebene Sprachsteuerung funktioniert lediglich auf Windows 10. 
