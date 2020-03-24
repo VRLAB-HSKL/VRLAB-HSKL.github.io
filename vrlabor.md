@@ -1,3 +1,9 @@
+---
+title: Unity im Labor
+has_children: false
+nav_order: 2
+---
+
 # Editing Unity Versionen im VR Labor
 
 Wir verwenden die folgenden Versionen im VR-Labor:
