@@ -1,3 +1,10 @@
+---
+title: Sprachsteuerung
+has_children: true
+nav_order: 2
+---
+
+
 # Sprachsteuerung
 
 ## Wichtig
