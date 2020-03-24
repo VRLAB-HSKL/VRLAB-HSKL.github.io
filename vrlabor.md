@@ -10,7 +10,7 @@ nav_order: 1
 Hier finden Sie allgemeine Informationen zum VR Labor.
 {: .fs-6 .fw-300 }
 
-## Table of contents
+## Inhaltsverzeichnis
 {: .no_toc .text-delta }
 
 1. TOC
