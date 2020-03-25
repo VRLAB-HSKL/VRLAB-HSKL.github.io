@@ -2,7 +2,7 @@
 
 In diesem Wiki sammeln wir alle allgemeinen Seiten zum Labor!
 
-https://vrlab-hskl.github.io/
+[https://vrlab-hskl.github.io/](https://vrlab-hskl.github.io/)
 
 ## Schreiben im Wiki
 
