@@ -1,7 +1,7 @@
 title: "VR-Labor Hochschule Kaiserslautern Standort Zweibrücken"
 remote_theme: pmarsceill/just-the-docs
-color_scheme: "dark"
-search_enabled: true
+color_scheme: "light"
+search_enabled: false
 # Inhaltsverzeichnis links im Browser erzeugen
 has_toc: false
 # Logo file
