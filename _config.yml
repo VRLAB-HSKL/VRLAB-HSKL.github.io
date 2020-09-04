@@ -2,5 +2,7 @@ title: "VR-Labor HS-KL"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "dirt"
 search_enabled: true
+# Inhaltsverzeichnis links im Browser erzeugen
 has_toc: true
+# Logo file
 logo: "hurricaneVis.png"
