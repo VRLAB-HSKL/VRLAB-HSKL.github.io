@@ -1,3 +1,9 @@
+---
+title: Wiki VR-Labor
+has_children: false
+nav_order: 1
+---
+
 # VR Wiki
 
 In diesem Wiki sammeln wir alle allgemeinen Seiten zum Labor!
