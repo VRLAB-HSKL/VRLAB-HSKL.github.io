@@ -3,3 +3,4 @@ remote_theme: pmarsceill/just-the-docs
 color_scheme: "dirt"
 search_enabled: true
 has_toc: true
+logo: "hurricaneVis.png"
