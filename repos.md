@@ -14,3 +14,5 @@ auf den von uns verwendeten branch. Sind die Änderungen in einem Branch, der ni
 synchronisiert.
 
 Sobald wir ein neues Release definiert haben wird develop durch ein Merge mit master synchronisiert. Wir erzeugen ein Release (Tag, ...) in master.
+
+Stand: 4. September 2020
