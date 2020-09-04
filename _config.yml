@@ -1,8 +1,8 @@
-title: "VR-Labor HS-KL"
+title: "VR-Labor Hochschule Kaiserslautern Standort Zweibrücken"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
 search_enabled: true
 # Inhaltsverzeichnis links im Browser erzeugen
-has_toc: true
+has_toc: false
 # Logo file
 logo: "hurricaneVis.png"
