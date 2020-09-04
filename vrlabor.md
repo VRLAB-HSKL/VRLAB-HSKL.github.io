@@ -1,5 +1,5 @@
 ---
-title: Unity im Labor
+title: Unity im VR-Labor
 has_children: false
 nav_order: 1
 ---
@@ -12,9 +12,6 @@ Hier finden Sie allgemeine Informationen zum VR Labor.
 
 ## Inhaltsverzeichnis
 {: .no_toc .text-delta }
-
-1. TOC
-{:toc}
 
 ---
 
@@ -33,4 +30,4 @@ Bei der Installation der Unity-Versionen installieren wir mindestens die folgend
 Als AR-Module verwenden wir ARCore, Vuforia nur bei Bedarf.
 
 
-Stand: 104. September 2020
+Stand: 4. September 2020
