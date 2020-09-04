@@ -18,7 +18,7 @@ Hier finden Sie allgemeine Informationen zum VR Labor.
 
 ---
 
-# Editing Unity Versionen im VR Labor
+# Unity Versionen im VR Labor
 
 Wir verwenden die folgenden Versionen im VR-Labor:
 * 2019.4.0f1 LTS
@@ -30,7 +30,7 @@ Bei der Installation der Unity-Versionen installieren wir mindestens die folgend
 * WebGL Build Support
 * Documentation
 
-Als AR-Module verwenden wir ARCore, Vuforia nur bei bedarf.
+Als AR-Module verwenden wir ARCore, Vuforia nur bei Bedarf.
 
 
 Stand: 104. September 2020
