@@ -1,5 +1,5 @@
 ---
-title: Wiki VR-Labor
+title: Wiki VR-Labor -  Einstiegsseite
 has_children: false
 nav_order: 1
 ---
