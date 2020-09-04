@@ -29,3 +29,5 @@ Grund hierfür ist der Einsatz der Klasse "KeywordRecognizer" von UnityEngine.Wi
 Die Json Datei besteht aus mehreren Arrays die, die jeweiligen Sprachbefehle definieren. 
 Der Inhalt des Array **"activationWords"** definiert die Aktivierungsbefehle.
 Die Inhalte der anderen Arrays definieren die Kommandobefehle der einzelnen Events. **"event1Keywords"** für das Event1 UnityEvent
+
+Stand: 4. September 2020
