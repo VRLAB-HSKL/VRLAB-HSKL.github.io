@@ -1,3 +1,9 @@
+---
+title: Regeln für unsere Repositories
+has_children: false
+nav_order: 3
+---
+
 # Standard-Struktur der Repositories
 Wir verwenden Branches in git, um verteilt an unseren Projekte zu arbeiten. Dabei verwenden wir *mindestens* die beiden Branches
 1. master
