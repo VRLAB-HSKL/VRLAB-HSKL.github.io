@@ -1,5 +1,5 @@
 ---
-title: Sprachsteuerung
+title: Sprachsteuerung in Unity
 has_children: false
 nav_order: 2
 ---
@@ -13,9 +13,6 @@ Hier finden Sie allgemeine Informationen zum VR Labor.
 
 ## Inhaltsverzeichnis
 {: .no_toc .text-delta }
-
-1. TOC
-{:toc}
 
 ---
 
