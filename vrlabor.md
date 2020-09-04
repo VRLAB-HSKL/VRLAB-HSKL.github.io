@@ -20,9 +20,8 @@ Hier finden Sie allgemeine Informationen zum VR Labor.
 
 # Editing Unity Versionen im VR Labor
 
-Wir verwenden die folgenden Versionen im VR-Labor:
-* 2018.4.4f1 LTS
-* 2019.3.0f6
+Wir verwenden Stand September 2020 die folgenden Versionen im VR-Labor:
+* 2019.4.0f1 LTS
 
 ## Installierte Module
 Bei der Installation der Unity-Versionen installieren wir mindestens die folgenden Module:
