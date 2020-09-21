@@ -6,3 +6,5 @@ search_enabled: true
 has_toc: false
 # Logo file
 logo: "hurricaneVis.png"
+
+theme: jekyll-theme-slate
